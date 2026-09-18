@@ -17,10 +17,10 @@ Atualmente, estudo Gestão da Tecnologia da Informação e desenvolvo projetos p
 
 - 🎓 Estudante de Gestão da Tecnologia da Informação
 - 💻 Desenvolvedor Full Stack Júnior em formação
-- 🤖 Interesse em Inteligência Artificial e desenvolvimento de sistemas
-- 🚀 Construindo projetos práticos para meu portfólio
+- 🤖 Interesse em Inteligência Artificial e desenvolvimento de Websites, Web Applications, Game Develment.
+- 🏗️ Construindo projetos práticos para meu portfólio
 - 🧠 Sempre buscando aprender e evoluir
-- 🎨 Interessado em programação, criatividade e tecnologia
+- 🎨 Interessado em programação, design e tecnologia
 
 > "Transformando ideias em projetos funcionais."
 
