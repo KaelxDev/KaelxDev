@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hello, I'm Kaike (KaelxDev)
+# 👋 Hello, I'm Kaike (KaelxDev) 🇧🇷 
 
-### 💻 Junior Full Stack Developer 🇧🇷  | Technology & Artificial Intelligence
+### 💻 Junior Full Stack Developer | Technology & Artificial Intelligence
 
 An aspiring developer passionate about technology, programming, and building solutions.
 Currently studying Information Technology Management and developing projects to improve my skills.
