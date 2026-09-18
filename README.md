@@ -1,11 +1,11 @@
 <div align="center">
 
-# 👋 Olá, eu sou Kaike (KaelxDev)
+# 👋 Hello, I'm Kaike (KaelxDev)
 
-### 💻 Desenvolvedor Full Stack Júnior | Tecnologia & Inteligência Artificial
+### 💻 Junior Full Stack Developer 🇧🇷  | Technology & Artificial Intelligence
 
-Desenvolvedor em formação, apaixonado por tecnologia, programação e criação de soluções.
-Atualmente, estudo Gestão da Tecnologia da Informação e desenvolvo projetos para aprimorar minhas habilidades.
+An aspiring developer passionate about technology, programming, and building solutions.
+Currently studying Information Technology Management and developing projects to improve my skills.
 
 [![GitHub](https://img.shields.io/badge/GitHub-KaelxDev-181717?style=for-the-badge&logo=github)](https://github.com/KaelxDev)
 
@@ -13,65 +13,51 @@ Atualmente, estudo Gestão da Tecnologia da Informação e desenvolvo projetos p
 
 ---
 
-## 👨‍💻 Sobre mim
+## 👨‍💻 About Me
 
-- 🎓 Estudante de Gestão da Tecnologia da Informação
-- 💻 Desenvolvedor Full Stack Júnior em formação
-- 🤖 Interesse em Inteligência Artificial e desenvolvimento de Websites, Web Applications, Game Develment.
-- 🏗️ Construindo projetos práticos para meu portfólio
-- 🧠 Sempre buscando aprender e evoluir
-- 🎨 Interessado em programação, design e tecnologia
+- 🎓 Information Technology Management Student
+- 💻 Junior Full Stack Developer in Training
+- 🤖 Interested in Artificial Intelligence, Website Development, Web Applications, and Game Development
+- 🏗️ Building practical projects for my portfolio
+- 🧠 Always learning and improving
+- 🎨 Passionate about programming, design, and technology
 
-> "Transformando ideias em projetos funcionais."
+> "Turning ideas into functional projects."
 
 ---
 
-## 🛠️ Tecnologias e habilidades
+## 🛠️ Technologies & Skills
 
-### 💻 Linguagens
+### 💻 Languages
 
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,sql" />
 </div>
 
-### ⚛️ Frameworks e ferramentas
+### ⚛️ Frameworks & Tools
 
 <div>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,nextjs" />
 </div>
 
-### 🔧 Ambiente e desenvolvimento
+### 🔧 Development Environment
 
 <div>
   <img src="https://skillicons.dev/icons?i=git,github,linux,windows,docker,vscode" />
 </div>
 
-### 📚 Atualmente explorando
+### 📚 Currently Exploring
 
-- Inteligência Artificial e LLMs
-- Desenvolvimento Full Stack
-- APIs e integração de sistemas
-- Bancos de dados
-- Arquitetura de software
-- Rust e Go
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KaelxDev&show_icons=true&theme=tokyonight" />
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaelxDev&layout=compact&theme=tokyonight" />
-
-</div>
+- Artificial Intelligence & LLMs
+- Full Stack Development
+- APIs & System Integration
+- Databases
+- Software Architecture
+- Rust, Go, and Java
 
 ---
 
-## 🔥 Contribuições
+## 🔥 Contributions
 
 <div align="center">
 
@@ -81,7 +67,7 @@ Atualmente, estudo Gestão da Tecnologia da Informação e desenvolvo projetos p
 
 ---
 
-## 🔗 Links e contatos
+## 🔗 Links & Contact
 
 <div align="center">
 
@@ -95,8 +81,8 @@ Atualmente, estudo Gestão da Tecnologia da Informação e desenvolvo projetos p
 
 <div align="center">
 
-### 🚀 Desenvolvendo. Aprendendo. Evoluindo.
+### 🚀 Building. Learning. Evolving.
 
-Obrigado por visitar meu perfil! ☕
+Thanks for visiting my profile! ☕
 
 </div>
